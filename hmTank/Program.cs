@@ -10,7 +10,7 @@ namespace hmTank
             try
             {
                 Game g = new Game();
-                g.Run();             
+                g.Run();
             }
             catch (Exception ex)
             {
