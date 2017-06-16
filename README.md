@@ -11,6 +11,6 @@
 После старта игры танки расположены друга напротив друга (вверху и снизу экрана). Двигаться можно влево - вправо. Стрельба осуществляется клавишей "пробел", снаряд вылетает перед танком. Выигравает тот, кто разрушит танк опонента. Цвет танка менется взависимости от уровня здоровья от зеленого к красному.
 
 ## Скриншоты
-![ScreenShot](https://raw.github.com/insendend/BattleTanks/master/hmTank/Img/screenshots/scrn1.jpg)
-![ScreenShot](https://raw.github.com/insendend/BattleTanks/master/hmTank/Img/screenshots/scrn2.jpg)
-![ScreenShot](https://raw.github.com/insendend/BattleTanks/master/hmTank/Img/screenshots/scrn3.jpg)
+![ScreenShot](https://raw.github.com/insendend/BattleTanks/master/hmTank/Img/scrn1.jpg)
+![ScreenShot](https://raw.github.com/insendend/BattleTanks/master/hmTank/Img/scrn2.jpg)
+![ScreenShot](https://raw.github.com/insendend/BattleTanks/master/hmTank/Img/scrn3.jpg)
